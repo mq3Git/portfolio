@@ -166,7 +166,7 @@ img {
   z-index: 10000;
   font-weight: 400;
   outline: 0;
-  position: fixed;
+/*   position: fixed; */
 }
 .tab-content {
   margin-top: 8em;
